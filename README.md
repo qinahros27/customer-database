@@ -29,6 +29,9 @@ This project builds a customer database application that can store and retrieve 
 ## Getting started
 Clone the respository from github: ```git clone```
 
+## Screenshot
+![image](https://github.com/qinahros27/customer-database/assets/101724167/11833de9-027f-40f0-afc0-4073bd5fdfe3)
+
 <!---## Requirements
 
 Information of all the customers should be stored in a file called `customers.csv`. Initially, the program should read all the data from file and add data to the database. Any modification to the database should also recorded in the file `customers.csv`. The basic classes would be needed for this project (and create more if you have valid reasons to do so):
